@@ -2,7 +2,7 @@
   "name": "js-test-switcher",
   "main": "./lib/js-test-switcher",
   "version": "0.0.0",
-  "description": "Switch between code and its tests",
+  "description": "Switch between code and its tests with just a single keyboard shortcut",
   "author": "Rene Saarsoo <nene@triin.net>",
   "keywords": [
   ],

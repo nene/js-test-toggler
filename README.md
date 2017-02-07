@@ -1,5 +1,7 @@
-# js-test-switcher package
+# JavaScript test switcher
 
-A short description of your package.
+Switch between code and its tests with just a single keyboard shortcut.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+When test file doesn't exist yet, fills it in with a template.
+
+Configure the paths to your liking - the defaults are specific to my machine :P
