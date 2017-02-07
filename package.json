@@ -1,0 +1,19 @@
+{
+  "name": "js-test-switcher",
+  "main": "./lib/js-test-switcher",
+  "version": "0.0.0",
+  "description": "Switch between code and its tests",
+  "author": "Rene Saarsoo <nene@triin.net>",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "js-test-switcher:toggle"
+  },
+  "repository": "https://github.com/nene/js-test-switcher",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
