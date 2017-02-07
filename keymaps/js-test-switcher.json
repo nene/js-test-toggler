@@ -1,5 +1,0 @@
-{
-    "atom-text-editor": {
-        "ctrl-alt-t": "js-test-switcher:toggle"
-    }
-}

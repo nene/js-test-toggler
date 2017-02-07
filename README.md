@@ -1,4 +1,4 @@
-# JavaScript test switcher
+# JavaScript test toggler
 
 Switch between code and its tests with just a single keyboard shortcut.
 
