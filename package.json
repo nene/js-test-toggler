@@ -1,11 +1,10 @@
 {
   "name": "js-test-toggler",
   "main": "./lib/js-test-toggler",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Switch between code and its tests with just a single keyboard shortcut",
   "author": "Rene Saarsoo <nene@triin.net>",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "js-test-toggler:toggle"
   },
@@ -14,6 +13,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
