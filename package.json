@@ -1,7 +1,7 @@
 {
   "name": "js-test-toggler",
   "main": "./lib/js-test-toggler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Switch between code and its tests with just a single keyboard shortcut",
   "author": "Rene Saarsoo <nene@triin.net>",
   "keywords": [],
